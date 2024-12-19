@@ -4,7 +4,7 @@ Il facilite la réception des données via Bluetooth Low Energy (BLE). Grâce à
 
 **Matériel nécessaire:**
 - Thingy:91
-- Câble micro USB
+- Câble USB-C
 - nRF Connect for Desktop
 - Visual Studio Code (VS Code)
 - nRF Connect sur téléphone
